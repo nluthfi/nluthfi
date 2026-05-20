@@ -10,7 +10,6 @@
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/nluthfi/nluthfi/stats-output/stats.svg" height="150" alt="stats graph" /> <br>
   <img src="https://raw.githubusercontent.com/nluthfi/nluthfi/languages-output/languages.svg" height="150" alt="languages graph"  />
 </div>
 
