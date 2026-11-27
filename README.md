@@ -24,8 +24,7 @@
 
 ### About Me
 
-- 🎓 Computer Science student at **Universitas Pendidikan Indonesia (UPI)**.
-- 🔐 Currently exploring **Cyber Security** and **Web Development**.
+I'm a Computer Science student at **Universitas Pendidikan Indonesia (UPI)**, currently exploring **Cyber Security** and **Web Development**.
 
 ---
 
