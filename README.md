@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/nluthfi">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=540&lines=Computer+Science+Student+%40+UPI;Exploring+Cyber+Security;Building+for+Web+Development" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=540&lines=Computer+Science+Student;Exploring+Cyber+Security;Building+for+Web+Development" alt="Typing SVG" />
   </a>
 </div>
 
