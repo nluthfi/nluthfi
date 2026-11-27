@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:7aa2f7&height=180&section=header&text=Luthfi%20Naufal%20Alfareza&fontSize=42&fontColor=c0caf5&fontAlignY=38&desc=Computer%20Science%20Student%20%40%20UPI%20%E2%80%A2%20Software%20%26%20Mobile%20Developer&descSize=16&descAlignY=58&descColor=7aa2f7&animation=fadeIn" width="100%" alt="Luthfi Naufal Alfareza banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:7aa2f7&height=180&section=header&text=Luthfi%20Naufal%20Alfareza&fontSize=42&fontColor=c0caf5&fontAlignY=38&desc=Computer%20Science%20Student%20%40%20UPI%20%E2%80%A2%20Bandung%2C%20Indonesia&descSize=16&descAlignY=58&descColor=7aa2f7&animation=fadeIn" width="100%" alt="Luthfi Naufal Alfareza banner" />
 
   <br />
 
   <a href="https://github.com/nluthfi">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=540&lines=Building+offline-first+mobile+apps+with+Flutter;Exploring+compilers+%26+systems+in+C%2FC%2B%2B;Full-stack+web+development+with+PHP+%26+MySQL;Always+learning%2C+always+shipping" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=540&lines=Computer+Science+Student+%40+UPI;Exploring+Cyber+Security;Building+for+Web+Development" alt="Typing SVG" />
   </a>
 
   <br />
@@ -24,9 +24,8 @@
 
 ### About Me
 
-- 🎓 Computer Science student at **Universitas Pendidikan Indonesia (UPI)**, based in **Bandung, Indonesia**.
-- 🛠️ Enjoy building practical software across the stack — from **encrypted Android apps** and **custom language transpilers** to **Dockerized web apps** and **Java OOP/MVP projects**.
-- 🌱 Currently sharpening my craft in **mobile architecture (Flutter/Dart)**, **low-level systems (C/C++)**, and **clean software design**.
+- 🎓 Computer Science student at **Universitas Pendidikan Indonesia (UPI)**.
+- 🔐 Currently exploring **Cyber Security** and **Web Development**.
 
 ---
 
