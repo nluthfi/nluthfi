@@ -6,39 +6,29 @@
   <a href="https://github.com/nluthfi">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=540&lines=Computer+Science+Student+%40+UPI;Exploring+Cyber+Security;Building+for+Web+Development" alt="Typing SVG" />
   </a>
-
-  <br />
-
-  <a href="https://www.linkedin.com/in/nluthfi/">
-    <img src="https://img.shields.io/badge/LinkedIn-1a1b27?style=for-the-badge&logo=linkedin&logoColor=7aa2f7" alt="LinkedIn" />
-  </a>
-  <a href="https://instagram.com/luthfiii.n/">
-    <img src="https://img.shields.io/badge/Instagram-1a1b27?style=for-the-badge&logo=instagram&logoColor=bb9af7" alt="Instagram" />
-  </a>
-  <a href="https://github.com/nluthfi?tab=repositories">
-    <img src="https://img.shields.io/badge/Bandung%2C%20ID-1a1b27?style=for-the-badge&logo=github&logoColor=7dcfff" alt="GitHub" />
-  </a>
 </div>
 
 ---
 
-### About Me
-
-I'm a Computer Science student at **Universitas Pendidikan Indonesia (UPI)**, currently exploring **Cyber Security** and **Web Development**.
+<div align="center">
+  <h3>About Me</h3>
+  <p>
+    I'm a Computer Science student at <strong>Universitas Pendidikan Indonesia (UPI)</strong>, currently exploring <strong>Cyber Security</strong> and <strong>Web Development</strong>.
+  </p>
+</div>
 
 ---
 
-### Tech Stack
-
 <div align="center">
+  <h3>Tech Stack</h3>
   <img src="https://skillicons.dev/icons?i=c,cpp,java,php,py,dart,flutter,nodejs,mysql,docker,git,github,linux,vscode&theme=dark&perline=7" alt="Tech Stack Icons" />
 </div>
 
 ---
 
-### GitHub Stats & Activity
-
 <div align="center">
+  <h3>GitHub Stats &amp; Activity</h3>
+
   <img src="https://github-readme-stats.vercel.app/api?username=nluthfi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&icon_color=bb9af7&text_color=a9b1d6" height="165" alt="GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nluthfi&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&text_color=a9b1d6" height="165" alt="Top languages" />
 
@@ -57,6 +47,22 @@ I'm a Computer Science student at **Universitas Pendidikan Indonesia (UPI)**, cu
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nluthfi/nluthfi/pacman-output/pacman-contribution-graph.svg?game=pacman" />
     <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/nluthfi/nluthfi/pacman-output/pacman-contribution-graph.svg?game=pacman" width="100%" />
   </picture>
+</div>
+
+---
+
+<div align="center">
+  <h3>Connect with Me</h3>
+
+  <a href="https://www.linkedin.com/in/nluthfi/">
+    <img src="https://img.shields.io/badge/LinkedIn-1a1b27?style=for-the-badge&logo=linkedin&logoColor=7aa2f7" alt="LinkedIn" />
+  </a>
+  <a href="https://instagram.com/luthfiii.n/">
+    <img src="https://img.shields.io/badge/Instagram-1a1b27?style=for-the-badge&logo=instagram&logoColor=bb9af7" alt="Instagram" />
+  </a>
+  <a href="https://github.com/nluthfi?tab=repositories">
+    <img src="https://img.shields.io/badge/Bandung%2C%20ID-1a1b27?style=for-the-badge&logo=github&logoColor=7dcfff" alt="GitHub" />
+  </a>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,100:1a1b27&height=100&section=footer" width="100%" alt="Footer wave" />
