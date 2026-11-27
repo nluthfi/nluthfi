@@ -1,8 +1,4 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:7aa2f7&height=180&section=header&text=Luthfi%20Naufal%20Alfareza&fontSize=42&fontColor=c0caf5&fontAlignY=38&desc=Computer%20Science%20Student%20%40%20UPI%20%E2%80%A2%20Bandung%2C%20Indonesia&descSize=16&descAlignY=58&descColor=7aa2f7&animation=fadeIn" width="100%" alt="Luthfi Naufal Alfareza banner" />
-
-  <br />
-
   <a href="https://github.com/nluthfi">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=540&lines=Computer+Science+Student+%40+UPI;Exploring+Cyber+Security;Building+for+Web+Development" alt="Typing SVG" />
   </a>
@@ -64,5 +60,3 @@
     <img src="https://img.shields.io/badge/Bandung%2C%20ID-1a1b27?style=for-the-badge&logo=github&logoColor=7dcfff" alt="GitHub" />
   </a>
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,100:1a1b27&height=100&section=footer" width="100%" alt="Footer wave" />
