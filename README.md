@@ -30,28 +30,6 @@
 
 ---
 
-### Featured Projects
-
-<div align="center">
-  <a href="https://github.com/nluthfi/SafeDeck">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nluthfi&repo=SafeDeck&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&icon_color=bb9af7&text_color=a9b1d6" alt="SafeDeck repository card" />
-  </a>
-  <a href="https://github.com/nluthfi/sundaLang">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nluthfi&repo=sundaLang&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&icon_color=bb9af7&text_color=a9b1d6" alt="sundaLang repository card" />
-  </a>
-</div>
-
-<br />
-
-| Project | What it is | Stack |
-| :--- | :--- | :--- |
-| [**SafeDeck**](https://github.com/nluthfi/SafeDeck) | Offline-first encrypted Android password & account vault with SQLCipher AES-256, biometrics, and `.brankas` backups | `Dart` · `Flutter` · `SQLCipher` |
-| [**sundaLang**](https://github.com/nluthfi/sundaLang) | Sundanese-keyword programming language that transpiles to C and compiles to native binaries | `C` · `Node.js` · `GCC` |
-| [**streetfood-gegerkalong**](https://github.com/nluthfi/streetfood-gegerkalong) | Full-stack web platform for discovering street food around Gegerkalong, Bandung | `PHP` · `MySQL` · `Docker` |
-| [**DPBO Projects (`TP1`–`TP8`)**](https://github.com/nluthfi?tab=repositories&q=DPBO) | Object-Oriented Programming & MVP desktop/web apps (Java Swing & PHP MVC) | `Java` · `PHP` · `MySQL` |
-
----
-
 ### Tech Stack
 
 <div align="center">
